@@ -1,0 +1,44 @@
+body{
+    text-align: center;
+}
+.btn{
+    width: 100px;
+    height: 100px;
+    margin: 2.5rem;
+    border-radius: 20%;
+    border: solid black 6px;
+}
+.btn-container{
+    /* position: absolute;
+    top: 80px;
+    left: 500px; */
+    display: flex;
+    /* width: 300px;
+    height: 250px; */
+    /* flex-wrap: wrap; */
+    justify-content: center;
+}
+/* h3{
+    position: absolute;
+    left: 570px;
+}
+h5{
+    position: absolute;
+    left: 550px;
+    top: 40px;
+} */
+.red{
+    background-color: red;
+}
+.lightblue{
+    background-color: rgb(26, 163, 221);
+}
+.orange{
+    background-color: orange;
+}
+.blue{
+    background-color: rgb(43, 119, 226);
+}
+.flash{
+    background-color: white;
+}
